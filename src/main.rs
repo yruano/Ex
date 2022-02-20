@@ -18,6 +18,8 @@
 // odin
 // v
 
+// zig 컴파일러 https://mitchellh.com/zig
+
 // https://dhghomon.github.io/easy_rust/Chapter_0.html
 // https://www.youtube.com/watch?v=_VE1ueQj_tw
 // https://doc.rust-lang.org/std/index.html
